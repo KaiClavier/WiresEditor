@@ -1,2 +1,0 @@
-# WiresEditor
-WIP Script Editor
